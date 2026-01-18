@@ -1,11 +1,16 @@
-## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Spring+Boot+Architect;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Heena%20Kousar%20S&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Spring%20Boot&descAlignY=60&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Scalable+Backends+with+Spring+Boot;Crafting+Pixel-Perfect+Flutter+Apps;Architecting+Event-Driven+Systems+(Kafka);Solving+Complex+Problems+with+Code" alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <h3>🚀 About Me</h3>
-  <p>I am a performance-driven Software Engineer bridging the gap between robust <b>Spring Boot</b> backends and beautiful <b>Flutter</b> mobile experiences. I specialize in building scalable applications, integrating Kafka, and crafting responsive UIs.</p>
+  <p>I am a performance-driven Software Engineer bridging the gap between robust <b>Spring Boot</b> backends and beautiful <b>Flutter</b> mobile experiences. I specialize in building scalable applications and crafting responsive UIs.</p>
 </div>
 
 <br/>
@@ -36,18 +41,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<!--
-**H-E-E-N-A/H-E-E-N-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
